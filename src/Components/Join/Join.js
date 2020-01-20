@@ -55,7 +55,7 @@ export default function Join() {
                             onChange={(event) => setRoom(event.target.value)}
                         />
                     </div>
-                    <Link onClick={e => handleSubmit(e, name, room)} to={`/chat?name=${name}&room=${room}`}>
+                    <Link onClick={e => handleSubmit(e, name, room)} to={`/chatnet-app/chat?name=${name}&room=${room}`}>
                         <button className={'button mt-20'} type="submit">Sign In</button>
                     </Link>
 
