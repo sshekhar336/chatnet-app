@@ -8,8 +8,8 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 const App = () => {
   return (
     <Router>
-      <Route path="/chatnet-app/" exact component={Join} />
-      <Route path="/chatnet-app/chat" component={Chat} />
+      <Route path="/" exact component={Join} />
+      <Route path="/chat" component={Chat} />
     </Router>
   );
 }
