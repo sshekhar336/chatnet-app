@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chatnet-app/static/css/main.252f3d50.chunk.css",
-    "main.js": "/chatnet-app/static/js/main.724b568f.chunk.js",
-    "main.js.map": "/chatnet-app/static/js/main.724b568f.chunk.js.map",
+    "main.js": "/chatnet-app/static/js/main.4833b39f.chunk.js",
+    "main.js.map": "/chatnet-app/static/js/main.4833b39f.chunk.js.map",
     "runtime-main.js": "/chatnet-app/static/js/runtime-main.509b8ba6.js",
     "runtime-main.js.map": "/chatnet-app/static/js/runtime-main.509b8ba6.js.map",
     "static/js/2.f5523383.chunk.js": "/chatnet-app/static/js/2.f5523383.chunk.js",
     "static/js/2.f5523383.chunk.js.map": "/chatnet-app/static/js/2.f5523383.chunk.js.map",
     "index.html": "/chatnet-app/index.html",
-    "precache-manifest.bc30cb0d3aedd585394c11cba70c012f.js": "/chatnet-app/precache-manifest.bc30cb0d3aedd585394c11cba70c012f.js",
+    "precache-manifest.75f8c1b94dd705b8ed279e962b0e99c6.js": "/chatnet-app/precache-manifest.75f8c1b94dd705b8ed279e962b0e99c6.js",
     "service-worker.js": "/chatnet-app/service-worker.js",
     "static/css/main.252f3d50.chunk.css.map": "/chatnet-app/static/css/main.252f3d50.chunk.css.map",
     "static/js/2.f5523383.chunk.js.LICENSE": "/chatnet-app/static/js/2.f5523383.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.509b8ba6.js",
     "static/js/2.f5523383.chunk.js",
     "static/css/main.252f3d50.chunk.css",
-    "static/js/main.724b568f.chunk.js"
+    "static/js/main.4833b39f.chunk.js"
   ]
 }
